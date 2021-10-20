@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import sys
-# This prompt is green arrows
+# (green arrows)
 import sys
 sys.ps1 = "\033[1;33m>>>\033[0m "
 
