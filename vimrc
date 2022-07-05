@@ -17,7 +17,7 @@ call plug#end()
 """"""""""""""SETTINGS"""""""""""""""
 " colorscheme gruvbox
 " colorscheme sunbather
-colorscheme vim-monokai-tasty " From JJ
+colorscheme vim-monokai-tasty " From JJG
 set background=dark
 
 au BufRead,BufNewFile *.md set filetype=markdown 
